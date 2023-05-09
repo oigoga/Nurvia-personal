@@ -1,8 +1,20 @@
+import Dashboard from './pages/Dashboard';
+import Swap from './pages/Swap';
+import Earn from './pages/Earn'
+import Deals from './pages/Deals'
+import Borrow from './pages/Borrow'
+
 
 
 const App = () => {
   return (
-    <div className=' text-4xl font-bold font-Open-sans'>Nurvia</div>
+   <>
+    <Dashboard/>
+   {/* <Earn/>
+   <Deals/>
+   <Borrow/>
+   <Swap/> */}
+   </>
   )
 }
 
