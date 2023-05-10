@@ -6,9 +6,10 @@ const Dashboard = () => {
   return (
     <>
       <Card>
-        <div className="flex ">
-        <Sidebar page="dashboard" />
-        <Dashboard1 />
+        <div className="flex">
+          
+          <Sidebar page="dashboard" />
+          <Dashboard1 />
         </div>
       </Card>
     </>

@@ -2,8 +2,8 @@ import { BNB, Search, Down } from "../assets/General/assets";
 const Navbar = () => {
   return (
     <>
-      <div className="w-full flex justify-between">
-        <div className="w-1/2 ml-5 rounded-md bg-white h-10 bg-opacity-10 flex">
+      <div className="w-full flex justify-between pt-2">
+        <div className="w-1/2 ml-5 rounded-md bg-navy flex">
           <div className="flex items-center pl-3 pointer-events-none">
             <img src={Search} alt="" />
           </div>

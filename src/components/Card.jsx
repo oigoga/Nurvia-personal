@@ -2,7 +2,7 @@
 
 const Card = ({children}) => {
   return (
-    <div className=" bg-bg-color py-8 text-white pr-12 h-screen font-Open-sans">
+    <div className=" bg-bg-color py-8 text-white pr-12 min-h-screen  font-Open-sans">
         {children}
     </div>
   )

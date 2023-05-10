@@ -7,9 +7,15 @@ export default {
   theme: {
     colors: {
       'green': '#02411B',
-      'bg-color': '#232137',
+      'bg-color': '#181423',
+      'navy': '#232137',
       'green2': '#3baa34',
       'white': '#FFFFFF',
+      'violet': '#554E77',
+      'grey': '#AEAEB7',
+      'green3': '#33AA5433',
+      'green4': '#79F09A',
+      'green5': '#0c8e36',
       'transparent': 'transparent'
 
     }, 

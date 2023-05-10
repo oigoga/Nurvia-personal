@@ -8,4 +8,7 @@ import Earn from './Earn.png'
 import Search from './Search.png'
 import BNB from './BNB.svg'
 import Down from './Down.svg'
-export {Logo, Dashboard, Earn, Deal, Swap, Help, Borrow, BNB, Search, Down}
+import Backer from './backer.png'
+import Senior from './senior.png'
+import Sort from './sort.png'
+export {Logo, Dashboard, Earn,Backer, Senior, Deal, Swap, Help, Borrow, BNB, Search, Down, Sort}
