@@ -53,10 +53,12 @@ const Swap1 = () => {
                         />
                       </div>
 
-                      <button className="px-3 flex rounded-md items-center w-1/4 bg-green">
-                        <img src={BNB} alt="Bnb" />
-                        <p className="font-semibold mx-2">BSC</p>
-                        <img src={Down} alt="" className="mx-3" />
+                      <button className="px-1 lg:px-3 flex justify-between rounded-md items-center w-1/4 bg-green">
+                       <div className="flex items-center">
+                       <img src={BNB} alt="Bnb" className="h-5 lg:h-8"/>
+                        <p className="font-semibold ml-0.5 ">BSC</p>
+                       </div>
+                        <img src={Down} alt="" className="" />
                       </button>
                     </div>
                     <div className="w-2/3 mt-2 flex justify-between">
@@ -83,10 +85,12 @@ const Swap1 = () => {
                         />
                       </div>
 
-                      <button className="px-3 flex rounded-md items-center w-1/4 bg-green">
-                        <img src={Polygon} alt="Polygon" />
-                        <p className="font-semibold mx-2">Polygon</p>
-                        <img src={Down} alt="" className="mx-3" />
+                      <button className="px-1 lg:px-3 flex justify-between rounded-md items-center w-1/4 bg-green">
+                       <div className="flex items-center">
+                       <img src={Polygon} alt="Bnb" className="h-5 lg:h-8"/>
+                        <p className="font-semibold ml-0.5 ">Polygon</p>
+                       </div>
+                        <img src={Down} alt="" className="" />
                       </button>
                     </div>
                     <div className="w-2/3 mt-2 flex justify-between">

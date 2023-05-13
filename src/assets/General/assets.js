@@ -10,5 +10,5 @@ import BNB from './BNB.svg'
 import Down from './Down.svg'
 import Backer from './backer.png'
 import Senior from './senior.png'
-import Sort from './sort.png'
+import Sort from './sort.svg'
 export {Logo, Dashboard, Earn,Backer, Senior, Deal, Swap, Help, Borrow, BNB, Search, Down, Sort}

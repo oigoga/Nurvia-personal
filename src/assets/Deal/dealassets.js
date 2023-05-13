@@ -1,0 +1,16 @@
+import Acasa from './acasa.svg'
+import Addi from './Addi.svg'
+import Biz from './Biz.svg'
+import Creditas from './creditas.svg'
+import Finkargo from './finkargo.svg'
+import Julo from './julo.svg'
+import Khazna from './khazna.svg'
+import Lula from './lula.svg'
+import Neogrowth from './neogrowth.svg'
+import Pezesha from './Pzsh.svg'
+import Shecluded from './shecluded.svg'
+import Green from './Go.svg'
+import Red from './red.svg'
+import Neutral from './neutral.svg'
+export const dealAssets = [Pezesha, Addi, Khazna, Shecluded, Acasa, Lula, Biz, Neogrowth, Creditas, Julo, Finkargo]
+export const dealStatus = [Green, Red, Neutral]

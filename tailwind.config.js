@@ -13,9 +13,11 @@ export default {
       'white': '#FFFFFF',
       'violet': '#554E77',
       'grey': '#AEAEB7',
-      'green3': '#33AA5433',
+      'green3': '#33AA54',
       'green4': '#79F09A',
       'green5': '#0c8e36',
+      'green6': '#03411c',
+      'violet2': '#9089C3',
       'transparent': 'transparent'
 
     }, 
